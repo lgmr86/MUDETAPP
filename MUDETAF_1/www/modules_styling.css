@@ -1,0 +1,30 @@
+.warn {
+    color:red;
+    font-style:italic;
+    font-size:12px;
+}
+
+.show_id {
+    color:red;
+    margin-bottom: 10px;
+    font-style:italic;
+    font-size:10px;
+}
+
+.history {
+    border:1px solid;
+    padding: 15px;
+}
+
+.dd-align {
+  display: flex;
+}
+
+.dropdown {
+    padding-right: 10px;
+}
+
+.sum_title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
