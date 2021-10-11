@@ -20,7 +20,7 @@ source("apply_function.R")
 # define some credentials
 credentials <- data.frame(
   user = c("stephane.berthault@coopergay.fr","e.mazeau@mudetaf.fr", "admin"), # mandatory
-  password = c("Mucg21!","Mucg21!", "Marly1986!"), # mandatory
+  password = c("Mucg21!","Mucg21!", "Cgf963100"), # mandatory
   start = c(NA,NA,"2019-04-15"), # optinal (all others)
   expire = c(NA, NA, "2022-12-31"),
   admin = c(FALSE,FALSE, TRUE),
